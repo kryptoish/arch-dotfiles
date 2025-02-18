@@ -2,7 +2,7 @@
 
 This is my **Arch Linux dotfiles** repository! This setup is designed for a smooth and efficient workflow using **Hyprland**. To be honest, I don't know if the shell script will work as it has not been tested on a new machine so you might need to do some tweaking.
 
-## 🖥️ **Overview of Setup**
+## **Overview of Setup**
 - **Window Manager**: Hyprland
 - **Compositor**: Wayland
 - **Terminal**: Foot
@@ -18,13 +18,13 @@ This is my **Arch Linux dotfiles** repository! This setup is designed for a smoo
 
 ---
 
-## 🛠️ **System Requirements**
+## **System Requirements**
 - **Arch Linux**
 - **Wayland Support**
 - **Hyprland Window Manager**
 - **GPU with Wayland Compatibility** (AMD, Intel, or NVIDIA with proper drivers)
 
-## 📦 **Required Dependencies**
+## **Required Dependencies**
 Before installing, ensure these packages are installed:
 
 ```sh
@@ -38,22 +38,22 @@ yay -S spicetify-cli
 
 ---
 
-## 📦 **Installation**
+## **Installation**
 Clone the repository and run the installation script to apply all dotfiles.
 
-### 🔽 **1. Clone the Repository**
+### **1. Clone the Repository**
 ```sh
 git clone https://github.com/yourusername/arch-dotfiles.git ~/backup/arch-dotfiles
 ```
 
-### 🚀 **2. Run the Install Script**
+### **2. Run the Install Script**
 ```sh
 cd ~/path/to/arch-dotfiles # change accordingly
 chmod +x install.sh
 ./install.sh
 ```
 
-### 🔄 **3. Restart Your Session**
+### **3. Restart Your Session**
 Once installed, **restart your session** or run:
 ```sh
 exec hyprland
@@ -61,7 +61,7 @@ exec hyprland
 
 ---
 
-## 🎨 **Customization**
+## **Customization**
 - Modify `hypr/hyprland.conf` to tweak Hyprland settings.
 - Adjust `waybar/config.json` to change the **music player** settings.
 - Use `spicetify` to modify the **Spotify theme**.
@@ -69,8 +69,10 @@ exec hyprland
 
 ---
 
-## 🎭 **Screenshots**
-![Placeholder for Desktop Setup](https://via.placeholder.com/1200x600)
+## **Screenshots**
+![archlinux-hypr1](https://github.com/user-attachments/assets/5b2c3d8e-3c43-479d-9972-869ebff49dde)
+![archlinux-hypr2](https://github.com/user-attachments/assets/7bd61bc2-52c9-4a9e-b52c-2f594153677d)
+
 
 ---
 
