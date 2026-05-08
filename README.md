@@ -71,12 +71,4 @@ exec hyprland
 
 ## **Screenshots**
 ![archlinux-hypr1](https://github.com/user-attachments/assets/5b2c3d8e-3c43-479d-9972-869ebff49dde)
-![archlinux-hypr2](https://github.com/user-attachments/assets/7bd61bc2-52c9-4a9e-b52c-2f594153677d)
 
-
----
-
-## 🔧 **Contributing**
-Feel free to fork this repo and submit pull requests if you have improvements or ideas!
-
----
