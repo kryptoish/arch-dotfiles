@@ -1,6 +1,6 @@
 # Arch Linux Dotfiles
 
-This is my **Arch Linux dotfiles** repository... It's broken/deprecated now :(
+This is my **Arch Linux dotfiles** repository... It's broken/deprecated now :(\
 This setup is designed for a smooth and efficient workflow using **Hyprland**. To be honest, I don't know if the shell script will work as it has not been tested on a new machine so you might need to do some tweaking.
 
 ## **Overview of Setup**
